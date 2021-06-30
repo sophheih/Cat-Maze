@@ -1,0 +1,4 @@
+
+void coin_draw(int map_x ,int map_y);
+int coin_check(int map_x ,int map_y);
+void coin_destory(int x, int y);
