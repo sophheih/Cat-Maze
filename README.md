@@ -1,15 +1,29 @@
-# I2P1_Final_project
-Introduction to programming 1 final project
-## Rules
-- You can only use C language to do this project, otherwise you will get 0 point.
-  Any C++ header file is not allow.
-- Plagiarism is strictly not allowed
+# Cat Maze
+This is a easy game build by Allegro.
+Walk in the maze to find the way out!
+But you are lose when out of energy
 
-## Resource
+## Control
+Walk: WASD
+Meet NPC: enter
+Answer Question: YN
+The buttons on the screen are touchable
 
-- Allegro download: [https ://github.com/liballeg/allegro5/releases](https://github.com/liballeg/allegro5/releases)
+## Character
+Main Character: 
+White cat
+NPC: 
+Magic Cat: Answer questions to get energy.
+Merchant Cat: One can make a deal with him.
 
-- Allegro install(mac): https://hackmd.io/@kerwintsai/SkRTk6kCS
-- Allegro install(Windows):  https://github.com/yuan7122/I2P1_Final_project/blob/master/tutorial/Allegro_install.pdf
-- Allegro documentation: https://liballeg.org/a5docs/trunk/
-- For more information refer to [tutorial folder](https://github.com/yuan7122/I2P1_Final_project/tree/master/tutorial)
+## Items
+Boxes: New cats in it, which you can change ur main character.
+Coins: Spreaded on the street with two different colors. Walk to collect them.
+Energy: Minus 70~100 randomly with every step of the walk.
+Fish: Cats love it
+
+## Shop
+Use coins to buy fish
+
+## Illustrated Book
+Change ur main character or see the cats u found
